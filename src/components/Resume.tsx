@@ -55,9 +55,19 @@ const Resume: React.FC = () => {
                     <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2021-2022</span>
                   </div>
                   <p className="text-gray-600 mb-1">Jaypee Vidya Mandir, Anoopshahr</p>
-                  <p className="text-gray-500 text-sm">
+                  {/* <p className="text-gray-500 text-sm">
                     Graduated with honors. Focus on algorithms, data structures, and software architecture.
-                  </p>
+                  </p> */}
+                </div>
+                <div className="border-l-2 border-blue-600 pl-4 py-2">
+                  <div className="flex justify-between items-start">
+                    <h5 className="text-lg font-medium text-gray-800">Intermediate</h5>
+                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2021-2022</span>
+                  </div>
+                  <p className="text-gray-600 mb-1">Jaypee Vidya Mandir, Anoopshahr</p>
+                  {/* <p className="text-gray-500 text-sm">
+                    Graduated with honors. Focus on algorithms, data structures, and software architecture.
+                  </p> */}
                 </div>
               </div>
             </div>
