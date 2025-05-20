@@ -100,12 +100,12 @@ const Resume: React.FC = () => {
                     <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2024-Present</span>
                   </div>
                   <p className="text-gray-600 mb-1">GeeksForGeeks</p>
-                  <ul className="text-gray-500 text-sm list-disc list-inside">
+                  {/* <ul className="text-gray-500 text-sm list-disc list-inside">
                     <li>Developed and maintained web applications using React, Node.js, and MongoDB</li>
                     <li>Implemented RESTful APIs for mobile and web clients</li>
                     <li>Reduced page load time by 60% through optimization techniques</li>
                     <li>Mentored junior developers and conducted code reviews</li>
-                  </ul>
+                  </ul> */}
                 </div>
               </div>
             </div>
@@ -121,7 +121,7 @@ const Resume: React.FC = () => {
                 <div>
                   <h5 className="text-lg font-medium text-gray-800 mb-2">Technical Skills</h5>
                   <p className="text-gray-500 text-sm">
-                    Python, JavaScript, TypeScript, React, Node.js, TensorFlow, PyTorch, SQL, MongoDB, Docker, AWS, Git
+                    C++, Python, JavaScript, TypeScript, React, Node.js, TensorFlow, PyTorch, SQL, MongoDB, Docker, AWS, Git
                   </p>
                 </div>
                 <div>
