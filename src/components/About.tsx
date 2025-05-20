@@ -53,7 +53,7 @@ const About: React.FC = () => {
             </div>
             
             <p className="text-gray-600 mb-8 leading-relaxed">
-              Outside of work, I enjoy hiking, photography, and contributing to open-source projects. I'm always looking for new challenges and opportunities to grow both personally and professionally.
+              Outside of work, I enjoy listening music, teaching, mentoring, and contributing to open-source projects. I'm always looking for new challenges and opportunities to grow both personally and professionally.
             </p>
             
             <div className="flex flex-wrap gap-4">
