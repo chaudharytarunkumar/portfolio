@@ -37,8 +37,8 @@ const About: React.FC = () => {
                 <h4 className="text-lg font-semibold text-gray-800 mb-2">Education</h4>
                 <ul className="space-y-2 text-gray-600">
                   <li>B. Tech (CSE-AIML), Dr APJ Abdul Kalam Technical University, Lucknow</li>
-                  <li>BSc in Software Engineering, MIT</li>
-                  <li>Machine Learning Specialization, Coursera</li>
+                  <li>Intermediate, Jaypee Vidya Mandir, Anoopshahr</li>
+                  <li>Matriculation, Jaypee Vidya Mandir, Anoopshahr</li>
                 </ul>
               </div>
               <div>
