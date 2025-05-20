@@ -46,7 +46,7 @@ const About: React.FC = () => {
                 <ul className="space-y-2 text-gray-600">
                   <li>GeeksForGeeks Students Community Chairperson (2024-Present)</li>
                   <li>GeeksForGeeks Campus Mantri (2024-Present)</li>
-                  <li>IIT Dampus Ambassador (2023-2024)</li>
+                  <li>IIT Campus Ambassador (2023-2024)</li>
                   <li>Internshala Student Partner at Internshala (2023)</li>
                 </ul>
               </div>
