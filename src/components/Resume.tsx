@@ -40,7 +40,7 @@ const Resume: React.FC = () => {
               <div className="space-y-6">
                 <div className="border-l-2 border-blue-600 pl-4 py-2">
                   <div className="flex justify-between items-start">
-                    <h5 className="text-lg font-medium text-gray-800">MSc in Computer Science</h5>
+                    <h5 className="text-lg font-medium text-gray-800">B. Tech (CSE-AIML)</h5>
                     <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2018-2020</span>
                   </div>
                   <p className="text-gray-600 mb-1">Stanford University</p>
