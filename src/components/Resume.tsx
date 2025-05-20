@@ -82,24 +82,24 @@ const Resume: React.FC = () => {
               <div className="space-y-6">
                 <div className="border-l-2 border-blue-600 pl-4 py-2">
                   <div className="flex justify-between items-start">
-                    <h5 className="text-lg font-medium text-gray-800">Senior AI Engineer</h5>
-                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2020-Present</span>
+                    <h5 className="text-lg font-medium text-gray-800">GeeksForGeeks Students Chapter Chairperson</h5>
+                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2024-Present</span>
                   </div>
-                  <p className="text-gray-600 mb-1">TechCorp, San Francisco</p>
+                  <p className="text-gray-600 mb-1">GeeksForGeeks</p>
                   <ul className="text-gray-500 text-sm list-disc list-inside">
-                    <li>Lead a team of 5 engineers developing ML models for image recognition</li>
-                    <li>Improved model accuracy by 23% while reducing inference time by 40%</li>
-                    <li>Designed and implemented the data pipeline infrastructure</li>
-                    <li>Collaborated with product team to define AI features for the platform</li>
+                    <li>Lead a team of 8 engineering students and 10 volunteers</li>
+                    <li>Improved events accuracy by 23% while reducing inference time by 40%</li>
+                    <li>Designed and implemented the new hosting strategies in events</li>
+                    <li>Collaborated with pvarious communities such as HackwithIndia</li>
                   </ul>
                 </div>
                 
                 <div className="border-l-2 border-blue-600 pl-4 py-2">
                   <div className="flex justify-between items-start">
-                    <h5 className="text-lg font-medium text-gray-800">Full Stack Developer</h5>
-                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2018-2020</span>
+                    <h5 className="text-lg font-medium text-gray-800">GeeksForGeeks Campus Mantri</h5>
+                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2024-Present</span>
                   </div>
-                  <p className="text-gray-600 mb-1">InnovateTech, Boston</p>
+                  <p className="text-gray-600 mb-1">GeeksForGeeks</p>
                   <ul className="text-gray-500 text-sm list-disc list-inside">
                     <li>Developed and maintained web applications using React, Node.js, and MongoDB</li>
                     <li>Implemented RESTful APIs for mobile and web clients</li>
