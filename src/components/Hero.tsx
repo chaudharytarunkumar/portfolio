@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
           </div>
           
           <p className="text-blue-300 text-xl mb-2 animate-fade-in-up">Hello, I'm</p>
-          <h1 className="text-5xl md:text-6xl font-bold mb-4 animate-fade-in-up animation-delay-200">John Doe</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-4 animate-fade-in-up animation-delay-200">Tarun Kumar</h1>
           <h2 className="text-2xl md:text-3xl text-blue-200 mb-6 animate-fade-in-up animation-delay-400">AI/ML Enthusiast & Full Stack Developer</h2>
           <p className="text-lg md:text-xl mb-8 animate-fade-in-up animation-delay-600">
             Passionate about creating intelligent solutions that make a difference
