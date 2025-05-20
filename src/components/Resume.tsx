@@ -41,20 +41,20 @@ const Resume: React.FC = () => {
                 <div className="border-l-2 border-blue-600 pl-4 py-2">
                   <div className="flex justify-between items-start">
                     <h5 className="text-lg font-medium text-gray-800">B. Tech (CSE-AIML)</h5>
-                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2018-2020</span>
+                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2022-Present</span>
                   </div>
-                  <p className="text-gray-600 mb-1">Stanford University</p>
+                  <p className="text-gray-600 mb-1">Dr APJ Abdul Kalam Technical University, Lucknow</p>
                   <p className="text-gray-500 text-sm">
-                    Specialized in Machine Learning and Artificial Intelligence. Thesis on "Improving Neural Network Efficiency for Edge Devices."
+                    Specialized in Machine Learning and Artificial Intelligence.
                   </p>
                 </div>
                 
                 <div className="border-l-2 border-blue-600 pl-4 py-2">
                   <div className="flex justify-between items-start">
-                    <h5 className="text-lg font-medium text-gray-800">BSc in Software Engineering</h5>
-                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2014-2018</span>
+                    <h5 className="text-lg font-medium text-gray-800">Intermediate</h5>
+                    <span className="text-sm bg-blue-100 text-blue-800 py-1 px-2 rounded">2021-2022</span>
                   </div>
-                  <p className="text-gray-600 mb-1">Massachusetts Institute of Technology</p>
+                  <p className="text-gray-600 mb-1">Jaypee Vidya Mandir, Anoopshahr</p>
                   <p className="text-gray-500 text-sm">
                     Graduated with honors. Focus on algorithms, data structures, and software architecture.
                   </p>
