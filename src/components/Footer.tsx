@@ -9,9 +9,9 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 mb-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">John Doe</h3>
+            <h3 className="text-xl font-bold mb-4">Tarun Kumar</h3>
             <p className="text-gray-400 mb-4">
-              AI/ML Engineer & Full Stack Developer based in San Francisco, CA.
+              AI/ML Engineer & Full Stack Developer based in Mathura, India.
             </p>
             <div className="flex space-x-4">
               <a 
@@ -95,15 +95,15 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-bold mb-4">Contact Info</h3>
             <address className="not-italic text-gray-400 space-y-2">
-              <p>San Francisco, CA, USA</p>
+              <p>Mathura, U.P., India</p>
               <p>
                 <a href="mailto:john.doe@example.com" className="hover:text-white transition-colors">
-                  john.doe@example.com
+                  imtarunchaudharyy@gmail.com
                 </a>
               </p>
               <p>
                 <a href="tel:+15551234567" className="hover:text-white transition-colors">
-                  +1 (555) 123-4567
+                  +919027806285
                 </a>
               </p>
             </address>
@@ -112,9 +112,9 @@ const Footer: React.FC = () => {
         
         <div className="pt-8 border-t border-gray-800 text-center">
           <p className="text-gray-400 flex items-center justify-center">
-            © {currentYear} John Doe. All Rights Reserved. Made with 
+            © {currentYear} Tarun Kumar. All Rights Reserved. Made with 
             <Heart size={16} className="mx-1 text-red-500 inline" /> 
-            in San Francisco
+            in Mathura
           </p>
         </div>
       </div>
