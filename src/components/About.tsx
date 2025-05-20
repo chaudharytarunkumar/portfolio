@@ -45,8 +45,8 @@ const About: React.FC = () => {
                 <h4 className="text-lg font-semibold text-gray-800 mb-2">Experience</h4>
                 <ul className="space-y-2 text-gray-600">
                   <li>Senior AI Engineer at TechCorp (2020-Present)</li>
-                  <li>Full Stack Developer at InnovateTech (2018-2020)</li>
-                  <li>Software Engineer Intern at Google (2017)</li>
+                  <li>Full  (2018-2020)</li>
+                  <li>Internshala Student Partner at Internshala (2023)</li>
                 </ul>
               </div>
             </div>
