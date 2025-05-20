@@ -29,14 +29,14 @@ const About: React.FC = () => {
               I'm Tarun Kumar, a passionate AI/ML Engineer and Full Stack Developer
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              With over 5 years of experience in the tech industry, I've worked on various projects ranging from web applications to complex machine learning systems. My passion lies in creating intelligent solutions that solve real-world problems.
+              With over 1 years of experience in the tech industry, I've worked on various projects ranging from web applications to machine learning systems. My passion lies in creating intelligent solutions that solve real-world problems.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
               <div>
                 <h4 className="text-lg font-semibold text-gray-800 mb-2">Education</h4>
                 <ul className="space-y-2 text-gray-600">
-                  <li>MSc in Computer Science, Stanford University</li>
+                  <li>B. Tech (CSE-AIML), Dr APJ Abdul Kalam Technical University, Lucknow</li>
                   <li>BSc in Software Engineering, MIT</li>
                   <li>Machine Learning Specialization, Coursera</li>
                 </ul>
